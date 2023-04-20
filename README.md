@@ -71,14 +71,21 @@ The design, construction and operation of a robotic arm manipulator is a multi-d
 2.1 "SELECTING THE RIGHT ROBOTIC ARM MANIPULATOR: UNDERSTANDING THE DIFFERENT TYPES AND THEIR APPLICATIONS"
 Robotic arm manipulators are highly versatile machines that can be used for a wide range of tasks and applications. However, it's important to choose the right type of robotic arm manipulator for the specific task or application at hand. In this article, we will explore the different types of arm robots available and their specific characteristics and capabilities.
 •	One of the most common types of arm robot is the articulated arm. This type of robot is composed of a series of joints that allow the arm to move in multiple directions, providing a high degree of flexibility and precision. Articulated arm robots are commonly used in industrial manufacturing and assembly, as well as in research and development. They are also used in robotic welding, painting, and other industrial applications. Articulated arm robots are typically composed of three to seven joints.
+
 •	Another type of arm robot is the six-axis robot. This type of robot is composed of six joints that allow the arm to move in multiple directions, providing a high degree of flexibility and precision. Six-axis robots are commonly used in industrial manufacturing and assembly, as well as in research and development. They are also used in robotic welding, painting, and other industrial applications. 
+
 •	A collaborative robot, also known as a cobot, is a type of robot that is designed to work alongside humans in a shared workspace. These robots are equipped with safety features such as force sensing and stopping mechanisms to ensure the safety of the human operators. Collaborative robots are commonly used in manufacturing and assembly, as well as in research and development. They are also used in tasks such as machine tending, packaging, and material handling.
+
 •	SCARA (Selective Compliance Assembly Robot Arm) robots are also commonly used in industrial manufacturing and assembly. These robots are characterized by their two parallel rotary joints that provide a high degree of precision and speed. SCARA robots are typically used for tasks such as assembly, material handling, and packaging.
+
 •	Cartesian robots are also known as gantry robots and have three linear joints that move in a Cartesian coordinate system. These robots are commonly used in manufacturing and assembly, as well as for material handling and packaging. They are also used for tasks such as machine tending and pick-and-place.
+
 •	Cylindrical robots are characterized by their cylindrical shape and are commonly used in manufacturing and assembly, as well as for material handling and packaging. They are also used for tasks such as machine tending and pick-and-place.
+
 •	Spherical/Polar robots have three rotary joints that are positioned in a spherical coordinate system. These robots are commonly used in manufacturing and assembly, as well as for material handling and packaging. They are also used for tasks such as machine tending and pick-and-place.
 
 •	Parallel/Delta robots are characterized by their parallel kinematics, and are commonly used in manufacturing and assembly, as well as for material handling and packaging. They are also used for tasks such as machine tending and pick-and-place.
+
 •	Anthropomorphic robots have a human-like shape and are commonly used in manufacturing and assembly, as well as for material handling and packaging.
 The selection of the appropriate arm robot depends on the specific task or application for which it will be used. Different types of arm robots include articulated, six-axis, collaborative, SCARA, Cartesian, cylindrical, spherical/polar, parallel/delta, and anthropomorphic robots, each with its own unique characteristics and capabilities. It's important to carefully evaluate the specific requirements of the task or application and choose the most appropriate arm robot to meet those requirements.
 
