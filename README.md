@@ -1,6 +1,4 @@
-# Robotic_Arm
-Robotic Arm developed by Steve Prokovas
-Robotic Arm Manipulator: An In-Depth Look
+# Robotic Arm Manipulator: An In-Depth Look
 
 By Steve Prokovas Computer Science at Hellenic Open University 
 
