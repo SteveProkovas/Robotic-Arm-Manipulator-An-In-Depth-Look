@@ -1,6 +1,7 @@
 # Robotic_Arm
 Robotic Arm developed by Steve Prokovas
 Robotic Arm Manipulator: An In-Depth Look
+
 By Steve Prokovas Computer Science at Hellenic Open University 
 
 A robotic arm manipulator is a type of robot that is specifically designed to perform a wide range of tasks that involve the manipulation of objects. The robot is typically composed of a number of different mechanical, electronic, and software components that work together to control the movement of the arm and the end effector. In this essay, we will delve deeper into the kinematics of a robotic arm manipulator, as well as how artificial intelligence (AI) can be used to improve its performance.
