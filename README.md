@@ -5,8 +5,6 @@ By Steve Prokovas Computer Science at Hellenic Open University
 A robotic arm manipulator is a type of robot that is specifically designed to perform a wide range of tasks that involve the manipulation of objects. The robot is typically composed of a number of different mechanical, electronic, and software components that work together to control the movement of the arm and the end effector. In this essay, we will delve deeper into the kinematics of a robotic arm manipulator, as well as how artificial intelligence (AI) can be used to improve its performance.
 
 
-
-
 1.1 MECHANICAL ENGINEERING PERSPECTIVE 
 A robotic arm manipulator is a complex machine that is specifically designed to perform a wide range of tasks that involve the manipulation of objects. The mechanical engineering perspective of a robotic arm manipulator focuses on the design and construction of the mechanical components that make up the robot, and how they work together to achieve precise movement and control.
 The mechanical components of a robotic arm manipulator include joints and links. The joints are the points where the different sections of the arm are connected and allow for movement. The joints are typically controlled by motors, which rotate the joints to move the arm. The links are the different sections of the arm that connect the joints and are typically made of lightweight materials such as aluminum or carbon fiber to reduce the weight of the arm and increase its mobility.
